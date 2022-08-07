@@ -1,14 +1,15 @@
 
+
 # Eureka
 https://github.com/TotoHyojunTak/msa_eureka
 
-# Config
+# Configuration service
 https://github.com/TotoHyojunTak/msa_configservice
 
 # Cloud Config - application
 https://github.com/TotoHyojunTak/msa_cloudconfig
 
-# Api-Gateway
+# Spring Cloud Gateway (Api-Gateway)
 https://github.com/TotoHyojunTak/msa_apigateway
 
 
